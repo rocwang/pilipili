@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Pilipili",
+  "version": "1.0",
+  "description": "Adds a red border to all webpages matching mozilla.org.",
+  "icons": {
+    "48": "images/pilipili.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.bilibili.com/*"],
+      "js": ["main.js"],
+      "css": ["main.css"]
+    }
+  ],
+  "web_accessible_resources": [
+    "images/logo.svg",
+    "images/pacman.png",
+    "images/pilipili.png",
+    "images/sprite.symbol.svg",
+    "images/tab2233.png",
+    "worker.js"
+  ]
+}

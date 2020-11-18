@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="576px" height="896px" viewBox="0 0 576 896" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bili-Mobile</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-8076.000000, -10612.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="bili-Mobile" transform="translate(8076.000000, 10612.000000)">
+                <path d="M448,0 C518.692448,0 576,57.307552 576,128 L576,768 C576,838.692448 518.692448,896 448,896 L128,896 C57.307552,896 0,838.692448 0,768 L0,128 C0,57.307552 57.307552,0 128,0 L448,0 Z M288,768 C261.490332,768 240,789.490332 240,816 C240,842.509668 261.490332,864 288,864 C314.509668,864 336,842.509668 336,816 C336,789.490332 314.509668,768 288,768 Z M448,64 L128,64 C95.5536109,64 68.2442273,88.2884552 64.448,120.512 L64,128 L64,672 C64,704.446389 88.2884552,731.755773 120.512,735.552 L128,736 L448,736 C480.446389,736 507.755773,711.711545 511.552,679.488 L512,672 L512,128 C512,92.653776 483.346224,64 448,64 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="896px" height="768px" viewBox="0 0 896 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bili-icon_shipin_bofangshu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-13159.000000, -6725.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="bili-icon_shipin_bofangshu" transform="translate(13159.000000, 6725.000000)">
+                <path d="M832,608 L832,160 C832,105.6 790.4,64 736,64 L160,64 C105.6,64 64,105.6 64,160 L64,608 C64,662.4 105.6,704 160,704 L736,704 C790.4,704 832,662.4 832,608 Z M736,0 C825.6,0 896,70.4 896,160 L896,608 C896,697.6 825.6,768 736,768 L160,768 C70.4,768 0,697.6 0,608 L0,160 C0,70.4 70.4,0 160,0 L736,0 Z M620.8,355.2 C646.4,364.8 646.4,403.2 620.8,412.8 L364.8,524.8 C342.4,534.4 320,518.4 320,496 L320,272 C320,249.6 342.4,233.6 364.8,243.2 L620.8,355.2 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

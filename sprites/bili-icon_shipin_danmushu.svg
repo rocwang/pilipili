@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="896px" height="768px" viewBox="0 0 896 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bili-icon_shipin_danmushu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-3488.000000, -7254.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="bili-icon_shipin_danmushu" transform="translate(3488.000000, 7254.000000)">
+                <path d="M736,0 C825.6,0 896,70.4 896,160 L896,608 C896,697.6 825.6,768 736,768 L160,768 C70.4,768 0,697.6 0,608 L0,160 C0,70.4 70.4,0 160,0 L736,0 Z M736,64 L160,64 C108.8,64 68.928,100.864 64.448,150.528 L64,160 L64,608 C64,659.2 100.864,699.072 150.528,703.552 L160,704 L736,704 C787.2,704 827.072,667.136 831.552,617.472 L832,608 L832,160 C832,105.6 790.4,64 736,64 Z M304,448 L304,512 L240,512 L240,448 L304,448 Z M720,448 L720,512 L368,512 L368,448 L720,448 Z M240,256 L240,320 L176,320 L176,256 L240,256 Z M688,256 L688,320 L304,320 L304,256 L688,256 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,532 @@
+:root {
+  --c-orange: #f90;
+  --c-light-orange: #ffb340;
+  --c-lighter-orange: #ffcc80;
+  --c-lightest-orange: #ffe6c0;
+  --c-white: #fff;
+  --c-gray: #6a6a6a;
+  --c-dark-gray: #555;
+  --c-darker-gray: #333;
+  --c-darkest-gray: #111;
+  --c-black: #000;
+  --c-blue: #3a89e9;
+}
+
+html body {
+  background-color: var(--c-black);
+  color: var(--c-white);
+}
+
+body .international-header a {
+  color: var(--c-white);
+}
+
+body .page-tab .con li {
+  border-color: var(--c-black);
+}
+
+body .tab-line-itnl {
+  border-color: var(--c-white);
+}
+
+body .elevator .list-box,
+body .elevator .list-box .item {
+  background: var(--c-black);
+}
+
+body .elevator .list-box .item.on,
+body .elevator .list-box .item:hover {
+  background: var(--c-orange);
+}
+
+body .elevator .list-box .item .bilifont {
+  color: var(--c-white);
+}
+
+body .storey-title .no-link {
+  color: var(--c-white);
+}
+
+body .storey-title .text-info,
+body .storey-title .text-info a {
+  color: var(--c-gray);
+}
+
+body a {
+  color: var(--c-white);
+}
+
+body a:hover {
+  color: var(--c-orange);
+}
+
+body .video-card-common .gg-icon {
+  border-color: var(--c-gray);
+  color: var(--c-gray);
+}
+
+body .bypb-window .online {
+  border-color: var(--c-orange);
+  background-color: var(--c-black);
+}
+
+body .bypb-window .online a {
+  color: var(--c-orange);
+}
+
+body .video-card-common .ex-up {
+  color: var(--c-gray);
+}
+
+body .video-card-common .ex-up:hover {
+  color: var(--c-orange);
+}
+
+body .video-card-common .ex-up .bilifont {
+  color: var(--c-blue);
+}
+
+body .exchange-btn .btn {
+  border-color: var(--c-gray);
+  color: var(--c-gray);
+}
+
+body .exchange-btn .btn:hover {
+  background-color: var(--c-darkest-gray);
+}
+
+body .live-tabs .tab-switch .tab-switch-item.on {
+  color: var(--c-orange);
+  border-color: var(--c-orange);
+}
+
+body .rank-header .name {
+  color: var(--c-white);
+}
+
+body .rank-header .more {
+  border-color: var(--c-gray);
+  color: var(--c-gray);
+}
+
+body .rank-header .more:hover {
+  background-color: var(--c-darkest-gray);
+}
+
+body .rank-wrap .number.on {
+  background-color: var(--c-orange);
+}
+
+body .rank-wrap .number {
+  background-color: transparent;
+}
+
+body .rank-wrap .preview .txt span {
+  color: var(--c-gray);
+}
+
+body .time-line .tab-switch .tab-switch-item.on {
+  border-color: var(--c-orange);
+  color: var(--c-orange);
+}
+
+body .time-line .tl-link {
+  background-color: var(--c-black);
+  color: var(--c-orange);
+  border-color: var(--c-orange);
+}
+
+body .time-line .tl-link:hover {
+  background-color: var(--c-orange);
+  color: var(--c-white);
+}
+
+body .pgc-rank-wrap .number {
+  background-color: transparent;
+}
+
+body .pgc-rank-wrap .number.on {
+  background-color: var(--c-orange);
+}
+
+body .time-line-card .txt .update .published {
+  color: var(--c-orange);
+}
+
+body .special-recommend header {
+  color: var(--c-white);
+}
+
+body .manga-panel .tab-switch .tab-switch-item.on {
+  border-color: var(--c-orange);
+  color: var(--c-orange);
+}
+
+body .manga-panel .app-download-link {
+  color: var(--c-white);
+}
+
+body .manga-panel .app-download-link span {
+  background-color: var(--c-orange);
+}
+
+body .manga-rank .tab-switch .tab-switch-item.on {
+  border-color: var(--c-orange);
+  color: var(--c-orange);
+}
+
+body .manga-rank-item .rank-number {
+  background-color: transparent;
+}
+
+body .manga-rank-item .rank-number.on {
+  background-color: var(--c-orange);
+}
+
+body .manga-panel .manga-list-box .manga-card .manga-title {
+  color: var(--c-white);
+}
+
+body .manga-panel .manga-list-box .manga-card:hover .manga-title {
+  color: var(--c-orange);
+}
+
+body .manga-panel .manga-list-box .manga-card .manga-tag {
+  color: var(--c-gray);
+}
+
+body .nav-user-center .mini-upload {
+  background-color: var(--c-orange);
+  color: var(--c-white);
+}
+
+body .upload-item .bilifont {
+  color: var(--c-gray);
+}
+
+body .bili-banner .b-logo .logo-img {
+  display: block;
+  height: 100%;
+}
+
+body .international-header .banner-link,
+body .animated-banner {
+  filter: grayscale(1) brightness(0.2);
+}
+
+body .contact-help {
+  color: var(--c-gray);
+  background-color: var(--c-black);
+  border-color: var(--c-gray);
+  box-shadow: 0 6px 10px 0 var(--c-darker-gray);
+}
+
+body .international-footer {
+  background-color: var(--c-darkest-gray);
+}
+
+body .international-footer .link-box .link-item .bt {
+  color: var(--c-gray);
+}
+
+body .international-footer a {
+  color: var(--c-orange);
+}
+
+body .international-footer a:hover {
+  color: var(--c-orange);
+  text-decoration: underline;
+}
+
+body .international-footer .footer_right a:hover {
+  text-decoration: none;
+}
+
+body .nav-link .nav-link-ul .nav-link-item .link .bnj-gif {
+  filter: hue-rotate(60deg);
+}
+
+body .international-footer .partner,
+body .international-footer .partner a {
+  color: var(--c-darker-gray);
+}
+
+.international-footer .partner a:hover {
+  color: var(--c-orange);
+}
+
+body .international-footer .partner img {
+  filter: grayscale(1) brightness(0.3);
+}
+
+body .international-footer .partner .sprite {
+  filter: grayscale(1) brightness(0.3);
+}
+
+body .video-card-common .card-pic a .crown.silver {
+  filter: grayscale(1);
+}
+
+body .video-card-common .card-pic a .crown.gold {
+  filter: hue-rotate(-6deg);
+}
+
+body .van-popover {
+  border-color: var(--c-darker-gray);
+  background-color: var(--c-black);
+  color: var(--c-gray);
+}
+
+body .van-popover a {
+  color: var(--c-white);
+}
+
+body .van-popper.van-popper-vip[x-placement^="bottom"] .popper__arrow,
+body .van-popper.van-popper-history[x-placement^="bottom"] .popper__arrow,
+body .van-popper.van-popper-favorite[x-placement^="bottom"] .popper__arrow {
+  border-bottom-color: var(--c-black);
+}
+
+body .van-popper[x-placement^="bottom"] .popper__arrow {
+  border-bottom-color: var(--c-darker-gray);
+}
+
+body .van-popper[x-placement^="bottom"] .popper__arrow::after {
+  border-bottom-color: var(--c-black);
+}
+
+body .van-popper[x-placement^="top"] .popper__arrow {
+  border-top-color: var(--c-darker-gray);
+}
+
+body .van-popper[x-placement^="top"] .popper__arrow::after {
+  border-top-color: var(--c-black);
+}
+
+body .vip-m .bubble-traditional .recommand .title {
+  color: var(--c-white);
+}
+
+body .vip-m .bubble-traditional .recommand .bubble-col .item .recommand-link {
+  color: var(--c-white);
+}
+
+body .vip-m .bubble-traditional .renew-btn button {
+  background-color: var(--c-orange);
+  color: var(--c-white);
+}
+
+body .elevator .bg23 {
+  background-color: hsla(0, 0%, 20%, 0.8);
+}
+
+body .van-popover.van-popper.van-popper-favorite .tabs-panel {
+  border-right-color: var(--c-gray);
+}
+
+body .van-popover.van-popper.van-popper-favorite .tab-item--normal {
+  color: var(--c-gray);
+}
+
+body .van-popover.van-popper.van-popper-favorite .tab-item--normal:hover {
+  background-color: var(--c-darkest-gray);
+}
+
+body .van-popover.van-popper.van-popper-favorite .tab-item--active {
+  background-color: var(--c-orange);
+  color: var(--c-white);
+}
+
+body .van-popover.van-popper.van-popper-favorite .empty-list {
+  color: var(--c-gray);
+}
+
+body .van-popover.van-popper .header-video-card .video-info .line-2 {
+  color: var(--c-white);
+}
+
+body .van-popover.van-popper .header-video-card .video-info .info {
+  color: var(--c-gray);
+}
+
+body .van-popover.van-popper .header-video-card .video-info .info .bilifont {
+  color: var(--c-blue);
+}
+
+body .van-popover.van-popper .header-video-card:hover {
+  background: var(--c-darkest-gray);
+}
+
+body .van-popover.van-popper.van-popper-history .tab-item--active {
+  background-color: var(--c-orange);
+  color: var(--c-white);
+}
+
+body
+  .van-popover.van-popper.van-popper-history
+  .tab-item:not(.tab-item--active):hover {
+  color: var(--c-orange);
+}
+
+body .van-popover.van-popper.van-popper-favorite .play-all {
+  border-top-color: var(--c-gray);
+  background-color: var(--c-black);
+  color: var(--c-orange);
+}
+
+body .van-popover.van-popper.van-popper-favorite .play-all.view {
+  color: var(--c-white);
+}
+
+body .van-popover.van-popper.van-popper-favorite .play-all:hover {
+  background-color: var(--c-darkest-gray);
+}
+
+body .van-popover.van-popper.van-popper-favorite .play-all .bilifont {
+  color: var(--c-orange) !important;
+}
+
+body .header-video-card .video-preview .progress {
+  background-color: var(--c-orange);
+}
+
+body .international-header a:hover,
+body .van-popover a:hover,
+body .page-tab .con li:hover a {
+  color: var(--c-orange);
+}
+
+body .page-tab .con li .bilifont {
+  color: var(--c-white);
+}
+
+body .page-tab .con li .round.yel,
+body .page-tab .con li .round.blue,
+body .page-tab .con li .round.channel,
+body .page-tab .con li .round {
+  background-color: var(--c-orange);
+}
+
+body .channel-menu-itnl .item .name em {
+  background-color: var(--c-lighter-orange);
+}
+
+body .home-slide .trigger span.on {
+  background-image: var(--pacman);
+}
+
+body .home-slide .trigger span:hover {
+  background-color: var(--c-orange);
+  border-color: var(--c-white);
+}
+
+body .home-slide .trigger span.on:hover {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+body .video-card-common .up {
+  color: var(--c-gray);
+}
+
+body .video-card-common .up:hover {
+  color: var(--c-orange);
+}
+
+body .video-card-common .up .bilifont {
+  color: var(--c-blue);
+}
+
+body .live-rank .live-rank-item .number.on {
+  background-color: var(--c-orange);
+  color: var(--c-white);
+}
+
+body .live-rank .live-rank-item .number {
+  background-color: transparent;
+  color: var(--c-gray);
+}
+
+body .ifmt h3 {
+  color: var(--c-white);
+}
+
+body .article-card .r-con .up {
+  color: var(--c-gray);
+}
+
+body .article-card .r-con .up:hover {
+  color: var(--c-orange);
+}
+
+body .article-card .r-con .up .bilifont {
+  color: var(--c-blue);
+}
+
+body .international-footer .link-box .link-item {
+  border-color: var(--c-darker-gray);
+}
+
+body .international-footer .link-box .link-item.link-c .biliapp,
+body .international-footer .link-box .link-item.link-c .weibo,
+body .international-footer .link-box .link-item.link-c .weixin {
+  color: var(--c-orange);
+}
+
+body .international-footer .link-box .link-item.link-c p {
+  color: var(--c-white);
+}
+
+body .bili-header-m .nav-search .nav-search-btn,
+body .international-header .nav-search .nav-search-btn {
+  background-color: var(--c-orange);
+}
+
+body .bili-header-m .nav-search .nav-search-submit,
+body .international-header .nav-search .nav-search-submit {
+  color: var(--c-black);
+}
+
+body .bili-header-m .nav-search #nav_searchform,
+body .international-header .nav-search #nav_searchform {
+  background-color: var(--c-darkest-gray);
+}
+
+body .bilibili-search-suggest,
+body .bilibili-search-history {
+  background-color: var(--c-darkest-gray);
+  border-color: var(--c-darker-gray);
+}
+
+body .bilibili-search-suggest .suggest-item.focus,
+body .bilibili-search-suggest .suggest-item:hover,
+body .bilibili-search-history .history-item.focus,
+body .bilibili-search-history .history-item:hover {
+  background: var(--c-darker-gray);
+}
+
+body .bilibili-search-suggest .suggest-item a,
+body .bilibili-search-history .history-item a {
+  color: var(--c-gray);
+}
+
+body .bilibili-search-history .history-item a:hover {
+  color: var(--c-white);
+}
+
+body .bilibili-search-history .cancel-icon {
+  color: var(--c-gray);
+}
+
+body .bili-header-m .nav-search .nav-search-keyword,
+body .international-header .nav-search .nav-search-keyword {
+  color: var(--c-white);
+}
+
+body .bilibili-search-suggest .suggest-item .suggest_high_light {
+  color: var(--c-orange);
+}
+
+body .page-tab .con li .round .dynamic-update i {
+  background-color: var(--c-orange);
+}

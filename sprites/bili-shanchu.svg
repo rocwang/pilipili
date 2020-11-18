@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="896px" viewBox="0 0 960 896" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bili-shanchu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-8959.000000, -11490.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="bili-shanchu" transform="translate(8959.000000, 11490.000000)">
+                <path d="M192,192 L192,768 C192.00428,800.446389 216.288455,827.755773 248.512,831.552 L256,832 L704,832 C736.446389,831.99572 763.755773,807.711545 767.552,775.488 L768,768 L768,192 L832,192 L832,768 C832,838.692448 774.692448,896 704,896 L256,896 C185.307552,896 128,838.692448 128,768 L128,192 L192,192 Z M384,192 L384,768 L320,768 L320,192 L384,192 Z M640,192 L640,768 L576,768 L576,192 L640,192 Z M320,0 L640,0 C675.346224,0 704,28.653776 704,64 L928,64 C945.673112,64 960,78.326888 960,96 C960,113.673112 945.673112,128 928,128 L32,128 C14.326888,128 0,113.673112 0,96 C0,78.326888 14.326888,64 32,64 L256,64 C256,28.653776 284.653776,0 320,0 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

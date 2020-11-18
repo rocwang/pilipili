@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640px" height="896px" viewBox="0 0 640 896" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bili-Navbar_mobile</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-5830.000000, -10557.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="bili-Navbar_mobile" transform="translate(5830.000000, 10557.000000)">
+                <path d="M64,0 L576,0 C611.346224,0 640,28.653776 640,64 L640,832 C640,867.346224 611.346224,896 576,896 L64,896 C28.653776,896 0,867.346224 0,832 L0,64 C0,28.653776 28.653776,0 64,0 Z M64,128 L64,704 L576,704 L576,128 L64,128 Z M256,768 L256,832 L384,832 L384,768 L256,768 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

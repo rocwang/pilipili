@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="768px" height="896px" viewBox="0 0 768 896" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bili-iPad</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-4659.000000, -11703.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="bili-iPad" transform="translate(4659.000000, 11703.000000)">
+                <path d="M640,0 C710.692448,0 768,57.307552 768,128 L768,768 C768,838.692448 710.692448,896 640,896 L128,896 C57.307552,896 0,838.692448 0,768 L0,128 C0,57.307552 57.307552,0 128,0 L640,0 Z M384,768 C357.490332,768 336,789.490332 336,816 C336,842.509668 357.490332,864 384,864 C410.509668,864 432,842.509668 432,816 C432,789.490332 410.509668,768 384,768 Z M640,64 L128,64 C95.5536109,64 68.2442273,88.2884552 64.448,120.512 L64,128 L64,672 C64,704.446389 88.2884552,731.755773 120.512,735.552 L128,736 L640,736 C672.446389,736 699.755773,711.711545 703.552,679.488 L704,672 L704,128 C704,92.653776 675.346224,64 640,64 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

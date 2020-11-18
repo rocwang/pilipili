@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="692px" height="692px" viewBox="0 0 692 692" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bili-game</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-13261.000000, -3803.000000)" fill-rule="nonzero">
+            <g id="bili-game" transform="translate(13261.000000, 3803.000000)">
+                <path d="M90.512,0.144 L601.488,0.144 C661.562667,0.144 691.6,30.1813333 691.6,90.256 L691.6,601.232 C691.6,661.306667 661.562667,691.344 601.488,691.344 L90.512,691.344 C30.4373333,691.344 0.4,661.306667 0.4,601.232 L0.4,90.256 C0.4,30.1813333 30.4373333,0.144 90.512,0.144 Z" id="Path" fill="#FFCC80"></path>
+                <path d="M141.2,159.632 L277.648,159.632 L277.648,296.08 L141.2,296.08 L141.2,159.632 Z M414.096,159.632 L550.544,159.632 L550.544,296.08 L414.096,296.08 L414.096,159.632 Z" id="Shape" fill="#FF9900"></path>
+                <polygon id="Path" fill="#FF9900" points="277.648 296.336 277.648 372.112 213.392 372.112 213.392 576.656 272.784 576.656 272.784 508.56 419.216 508.56 419.216 576.656 478.352 576.656 478.352 372.112 414.096 372.112 414.096 296.336"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

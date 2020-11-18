@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="786px" height="887px" viewBox="0 0 786 887" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bili-general_upload</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1828.000000, -10288.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="bili-general_upload" transform="translate(1828.000000, 10288.000000)">
+                <path d="M583,375 L583,567 C583,605.4 557.4,631 519,631 L263,631 C224.6,631 199,605.4 199,567 L199,375 L32.6,375 C13.4,375 0.6,362.2 0.6,343 C0.6,336.6 7,323.8 13.4,317.4 L371.8,10.2 C384.6,-2.6 403.8,-2.6 416.6,10.2 L775,317.4 C787.8,330.2 787.8,349.4 781.4,362.2 C768.6,368.6 762.2,375 749.4,375 L583,375 Z M71,759 L711,759 C749.4,759 775,784.6 775,823 C775,861.4 749.4,887 711,887 L71,887 C32.6,887 7,861.4 7,823 C7,784.6 32.6,759 71,759 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

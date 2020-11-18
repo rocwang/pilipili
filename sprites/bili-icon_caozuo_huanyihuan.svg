@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="768px" height="768px" viewBox="0 0 768 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bili-icon_caozuo_huanyihuan</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1837.000000, -7216.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="bili-icon_caozuo_huanyihuan" transform="translate(1837.000000, 7216.000000)">
+                <path d="M704,596.352 C616.825773,727.579125 458.361895,792.273415 304.254138,759.551808 C150.146382,726.830201 31.6422641,603.327465 5.312,448 L70.4,448 C98.3753256,584.712423 211.684543,687.552907 350.46059,702.185557 C489.236637,716.818206 621.502763,639.871369 677.376,512 L448,512 L448,448 L768,448 L768,768 L704,768 L704,596.352 Z M320,320 L0,320 L0,0 L64,0 L64,171.648 C151.174227,40.4208749 309.638105,-24.2734147 463.745862,8.44819196 C617.853618,41.1697986 736.357736,164.672535 762.688,320 L697.6,320 C669.624674,183.287577 556.315457,80.4470927 417.53941,65.8144434 C278.763363,51.181794 146.497237,128.128631 90.624,256 L320,256 L320,320 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

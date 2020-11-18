@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="896px" height="800px" viewBox="0 0 896 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bili-icon_xinxi_pinglunshu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-3488.000000, -4210.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="bili-icon_xinxi_pinglunshu" transform="translate(3488.000000, 4210.000000)">
+                <path d="M320,0 C144,0 0,144 0,320 C0,496 144,640 320,640 L345.152,640 L390.848,800 L558.464,640 L576,640 C752,640 896,496 896,320 C896,144 752,0 576,0 L320,0 Z M832,320 C832,461.184 717.184,576 576,576 L532.864,576 L514.304,593.728 L423.296,680.576 L406.656,622.4 L393.408,576 L320,576 C178.88,576 64,461.184 64,320 C64,178.88 178.88,64 320,64 L576,64 C717.184,64 832,178.88 832,320 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
